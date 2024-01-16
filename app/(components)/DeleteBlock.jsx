@@ -7,7 +7,7 @@ const DeleteBlock = () => {
     <div>
       <FontAwesomeIcon
         icon={faX}
-        className="text-red-400 hover:cursor-pointer hover:text-red-200"
+        className="text-red-500 cursor-pointer hover:text-red-300 duration-300"
       />
     </div>
   );
